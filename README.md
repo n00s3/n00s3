@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @n00s3
+- 👋 Hi, I’m @noose
 - 👀 I’m interested in Backend, Security
 - 🌱 I’m currently learning spring
 
